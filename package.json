@@ -1,0 +1,12 @@
+{
+  "name": "xml2json-srv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0",
+    "xml2json": "^0.9.1"
+  }
+}
